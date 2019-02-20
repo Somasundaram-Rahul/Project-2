@@ -8,3 +8,6 @@ There are three different python programs whose functions are as follows
 
 - The file Support Vector Machine.py analysis the credit card data using Support Vector Machines
 
+
+
+Note: There is a file "Selected results" that contain some selected results.
